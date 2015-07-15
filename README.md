@@ -13,3 +13,21 @@ para utilização.
 - artigo.md
 - config/resumo.md
 
+## Configurando a geração no servidor (Webhook)
+
+### Criando uma cópia do projeto (fork)
+
+- Criar um [fork deste projeto](https://github.com/formatafacil/exemplo-artigo/fork)
+
+- Perceber que foi criado uma cópia do projeto com o seu usuário
+
+- Configurando o endereço do servidor
+
+- Entrar na [configuração do projeto, na opção Webhooks & Services](./settings/hooks)
+
+- Clicar em [adicionar um webhook](./settings/hooks/new&hook_url=http://146.148.88.138/artigo) (*Add webhook*)
+
+. Configurar o campo *Payload URL* com http://146.148.88.138/artigo
+. Apagar o campo *Secret*
+. Confirmar inclusão clicando *Add webhook*
+
