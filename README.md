@@ -4,9 +4,14 @@
 
 ## Arquivos
 
-- [artigo.md](https://github.com/formatafacil/exemplo-artigo/blob/master/artigo.md) 
-- [resumo.d](https://github.com/formatafacil/exemplo-artigo/blob/master/config/resumo.md) 
-- [abstract.md](https://github.com/formatafacil/exemplo-artigo/blob/master/config/abstract.md)
+
+- [artigo.md](https://github.com/formatafacil/exemplo-artigo/edit/master/artigo.md) 
+- [resumo.d](https://github.com/formatafacil/exemplo-artigo/edit/master/config/resumo.md) 
+- [abstract.md](https://github.com/formatafacil/exemplo-artigo/edit/master/config/abstract.md)
+- [README.md](https://github.com/formatafacil/exemplo-artigo/edit/master/README.md)
+
+### Artigo original
+
 - [Artigo original](http://www.scielo.br/scielo.php?script=sci_pdf&pid=S1518-76322015000100061&lng=pt&nrm=iso&tlng=pt) -- [doi](http://dx.doi.org/10.1590/1982-4017-150104-1014)
 
 ## Descrição
