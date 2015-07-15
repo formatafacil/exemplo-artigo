@@ -1,33 +1,39 @@
 # Exemplo de artigo com o formatafacil
 
+- [Artigo no servidor](http://146.148.88.138/artigo/formatafacil/exemplo-artigo)
+
+## Arquivos
+
+- [artigo.md](https://github.com/formatafacil/exemplo-artigo/blob/master/artigo.md) 
+- [resumo.d](https://github.com/formatafacil/exemplo-artigo/blob/master/config/resumo.md) 
+- [abstract.md](https://github.com/formatafacil/exemplo-artigo/blob/master/config/abstract.md)
+- [Artigo original](http://www.scielo.br/scielo.php?script=sci_pdf&pid=S1518-76322015000100061&lng=pt&nrm=iso&tlng=pt) -- [doi](http://dx.doi.org/10.1590/1982-4017-150104-1014)
+
+## Descrição
+
 Este repositório contém um exemplo de artigo formatado com [formatafacil](https://github.com/formatafacil/formatafacil).
-
-
-O artigo original pode ser encontrado em: <http://dx.doi.org/10.1590/1982-4017-150104-1014>, juntamente com seu [pdf](http://www.scielo.br/scielo.php?script=sci_pdf&pid=S1518-76322015000100061&lng=pt&nrm=iso&tlng=pt).
 
 Para validar o uso da ferramenta, escolhemos um artigo aleatório
 para utilização.
 
-## Estrutura de arquivos
-
-- artigo.md
-- config/resumo.md
 
 ## Configurando a geração no servidor (Webhook)
 
 ### Criando uma cópia do projeto (fork)
 
-- Criar um [fork deste projeto](https://github.com/formatafacil/exemplo-artigo/fork)
+1. Criar um [fork deste projeto](https://github.com/formatafacil/exemplo-artigo/fork)
 
-- Perceber que foi criado uma cópia do projeto com o seu usuário
+2. Perceber que foi criado uma cópia do projeto com o seu usuário
 
-- Configurando o endereço do servidor
+3. Configurando o endereço do servidor
 
-- Entrar na [configuração do projeto, na opção Webhooks & Services](./settings/hooks)
+4. Entrar na [configuração do projeto, na opção Webhooks & Services](./settings/hooks)
 
-- Clicar em [adicionar um webhook](./settings/hooks/new&hook_url=http://146.148.88.138/artigo) (*Add webhook*)
+5. Clicar em [adicionar um webhook](./settings/hooks/new&hook_url=http://146.148.88.138/artigo) (*Add webhook*)
 
-. Configurar o campo *Payload URL* com http://146.148.88.138/artigo
-. Apagar o campo *Secret*
-. Confirmar inclusão clicando *Add webhook*
+6. Configurar o campo *Payload URL* com http://146.148.88.138/artigo
+
+7. Apagar o campo *Secret*
+
+8. Confirmar inclusão clicando *Add webhook*
 
