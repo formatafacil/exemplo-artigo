@@ -66,3 +66,39 @@ Letras, apresentando exemplos que potencialmente contribuem para evidenciar o
 processo e as tentativas de construção da identidade letrada desses alunos no ambiente
 acadêmico por meio da produção do referido gênero.
 
+# IDENTIDADE E LINGUAGEM/DISCURSO
+
+Especialmente no tocante à oposição entre concepções essencialistas e não
+essencialistas, a identidade tem sido um tema bastante debatido em diversos campos das
+ciências humanas e sociais, inclusive e talvez até especialmente em estudos
+relacionados com a linguagem e o discurso[^3]. Hoffnagel (2010) chama a atenção para o
+fato de que o termo *identidade* se tornou tão comum e é utilizado com tanta frequência
+que nem mesmo para as áreas disciplinares que o tomam como objeto específico de
+estudo é fácil chegar a uma definição consensual. Segundo a autora, por vezes se usa
+*identidade* como algo próximo de *personalidade* ou então como um conjunto de
+atributos sociodemográficos capazes de agrupar os indivíduos em grupos sociais ou
+distingui-los entre si. Nessa direção, a tendência é ressaltar aspectos essencialistas,
+considerando, portanto, a identidade como algo pré-determinado, fixo e imutável.
+
+[^3]: Discurso é aqui entendido, por um lado, no sentido dos estudos mais atuais da Linguística de Texto,
+como indissociável do texto e não apenas como “materializado em textos”. Isso não impede, por outro
+lado, que o discurso seja visto como “uma forma de agir sobre o mundo e sobre as pessoas, ou uma forma
+de representação do próprio mundo e das pessoas no mundo”, como defendem Cavalcante e Custódio
+Filho (2010, p. 58).
+
+Entretanto, o posicionamento de Hoffnagel (2010, p. 64), com o qual me alinho, é
+que a identidade é “uma realização interacional, negociada e alcançada em eventos
+comuns, como traços constitutivos de encontros sociais”. Ademais, a meu ver, esses
+“eventos comuns” não devem ser compreendidos como ou reduzidos a eventos
+informais cotidianos, mas devem alcançar eventos mais formais e ritualizados como
+aqueles a que o estudante de graduação precisa se submeter para construir sua *persona*
+social no ambiente acadêmico. Nesses múltiplos eventos sociais, distribuídos ao longo
+do tempo e de diferentes contextos, a identidade se revela como um fenômeno
+complexo, instável e plural. Dito de outra forma, diferentes identidades são construídas,
+assumidas ou atribuídas às pessoas nos diferentes contextos sociais, à medida que esses
+contextos “fazem com que nos envolvamos em diferentes significados sociais”
+(WOODWARD, 2012, p. 31). Para essa autora, “a complexidade da vida moderna exige
+que assumamos diferentes identidades”, inclusive identidades que podem entrar em
+conflito (p. 32). Muitas dessas identidades se caracterizam como uma questão de
+afiliação e não como resultado de fatores fixos e pré-determinados tais como
+parentesco, nacionalidade e outros (BAZERMAN, 2009)
