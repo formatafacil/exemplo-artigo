@@ -410,7 +410,8 @@ leitor experiente reconhece como de terceiros mas que não trazem essa indicaç�
 primeiro caso é representado pelo Exemplo 1.
 
 > **Exemplo 1: Citação direta seguida de comentário avaliativo**
-[AC2][^8] Conforme Aquino e Souza (2008, p. 33) “os gêneros textuais são tidos como ações
+>
+> [AC2][^8] Conforme Aquino e Souza (2008, p. 33) “os gêneros textuais são tidos como ações
 sócio-históricas e culturais, uma vez que são práticas sociais [...]” Percebe-se que os
 gêneros contribuem para o desenvolvimento de diversas ações na sociedade, por meio deles
 as comunidades comunicativas interagem e realizam seus objetivos.
@@ -428,7 +429,8 @@ comentário do aluno, se faz de uma forma diferente no Exemplo 2, em que um long
 trecho introdutório, não identificado como citação, precede a citação direta que acontece
 apenas dois parágrafos abaixo.
 
-**Exemplo 2: Citação direta precedida de trecho sem indicação da fonte**
+>**Exemplo 2: Citação direta precedida de trecho sem indicação da fonte**
+>
 > [AC3] A linguagem é uma forma de comunicação organizada pelos gêneros textuais, que
 orienta a conduta das pessoas na maneira como elas vão se relacionar com as outras.
 Gênero é mais do que uma maneira como as pessoas se comunicam, é também um jeito de
@@ -448,4 +450,4 @@ que finalmente vem a ser citado, esse conteúdo não é associado a ele pelo alu
 escritor. A recuperação dessa pertença e, consequentemente, da forma inadequada como
 o estudante se apropria do texto do autor, fica a cargo do leitor e do seu conhecimento
 
-Referirei os cinco artigos científicos que compõem o corpus como AC1, AC2, AC3, AC4 e AC5.
+
