@@ -547,3 +547,5 @@ analisar introduções de artigos de pesquisa do ponto de vista da organização
 teórico, no segundo movimento, uma estratégia comumente empregada pelos autores do artigo é indicar
 uma lacuna na área disciplinar. Para análises de gêneros acadêmicos baseadas no modelo CARS, ver, por
 exemplo, Bezerra (2001, 2006).
+
+![Intertextualidade como marca de construção da identidade](imagens/fig1.jpg)
