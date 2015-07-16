@@ -549,3 +549,64 @@ uma lacuna na área disciplinar. Para análises de gêneros acadêmicos baseadas
 exemplo, Bezerra (2001, 2006).
 
 ![Intertextualidade como marca de construção da identidade](imagens/fig1.jpg)
+
+Considerando o *corpus* no todo, observamos ainda que a intertextualidade é um
+fenômeno menos complexo na introdução do artigo do que no seu tópico inicial,
+provavelmente porque a introdução se dedica a apresentar o trabalho ao leitor, enquanto
+o primeiro tópico já se concentra especificamente na fundamentação teórica e, assim,
+mostra um esforço maior no sentido de travar um diálogo com os respectivos autores e
+trazê-los para dentro do texto que se está produzindo. Por isso, a ocorrência de
+intertextualidade, na forma da citação direta e indireta ou de alusões diversas a obras e a
+autores, é bem mais intensa nesse tópico teórico.
+
+Nos exemplos discutidos, a intertextualidade aparece como uma das evidências de
+como o estudante, ao lidar com a produção do artigo científico, se situa no processo de
+letramento acadêmico e, dessa forma, de que maneira constrói academicamente a sua
+identidade no ambiente da universidade.
+
+# Considerações finai
+
+Ao longo deste trabalho, procurei refletir sobre a maneira como a identidade, vista
+como fenômeno plural e dinâmico, numa perspectiva não essencialista, encontra no
+discurso um dos aspectos determinantes de sua constituição. A vinculação entre
+identidade e discurso, por sua vez, faz com que aquela se configure como uma questão
+pertinente também ao campo dos letramentos. Considerando que a constituição dos
+letramentos no ambiente acadêmico requer o trato com uma modalidade específica de
+escrita, esta acaba assumindo uma posição de evidente centralidade na construção
+discursiva da identidade. A construção discursiva da identidade no ambiente acadêmico
+se dá fundamentalmente pela escrita, e esta se constitui ainda no diálogo de um escritor
+com outros escritores. Daí a relevância da categoria de intertextualidade para o exame
+das estratégias de que os escritores se utilizam para firmar suas posições em meio à
+comunidade acadêmica.
+
+Para o estudante, o processo de construção de uma identidade acadêmica se
+apresenta como algo mais complexo, pois se trata de adquirir familiaridade com
+discursos próprios do ambiente ou, nas palavras de Bartholomae (1985), de “inventar a
+universidade” para cada ocasião de letramento. Uma das maneiras socialmente mais
+valorizadas de construir uma identidade no meio acadêmico, ou de inventar a
+universidade, é através da produção do artigo científico, provavelmente o gênero de
+maior prestígio na maioria das áreas disciplinares.
+
+Assim, numa confluência de noções teóricas como identidade,
+linguagem/discurso, letramentos, escrita acadêmica e gêneros, procurei, através do uso
+da categoria de intertextualidade, examinar como os estudantes constroem sua
+identidade como escritores em uma comunidade acadêmica. Os resultados mostram que
+os estudantes valorizam significativamente o diálogo com autores reconhecidos na área
+disciplinar, de cujos discursos se apropriam ou com os quais procuram se identificar
+principalmente por meio de estratégias como a citação direta e o uso referenciado ou
+não de extratos dos textos desses autores.
+
+A forte dependência dos estudantes em relação ao discurso dos autores, que acaba
+ocupando a maior parte do espaço textual na produção do artigo, ao que tudo indica
+sinaliza a fase inicial da constituição de uma identidade ou de uma “voz” propriamente
+sua no campo acadêmico, que deverá se afirmar gradualmente à medida que forem cada
+vez mais expostos à leitura e à produção do gênero. Nesse estágio inicial, a dependência
+inclusive manifesta como plágio algumas vezes parece quase inevitável.
+
+Finalmente, deve-se ressaltar que, a despeito da produtividade e da relevância da
+categoria de intertextualidade, adotada para este estudo, outros aspectos podem e devem
+ser observados no estudo da identidade do aluno-escritor na relação com os letramentos
+acadêmicos, inclusive aqueles sugeridos no modelo proposto por Castelló et al. (2011):
+o posicionamento e a organização das informações. O emprego dessas e de outras
+categorias de análise certamente contribuirão, em pesquisas futuras, para uma
+compreensão mais profunda do fenômeno aqui enfocado.
