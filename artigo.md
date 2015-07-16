@@ -451,3 +451,9 @@ escritor. A recuperação dessa pertença e, consequentemente, da forma inadequa
 o estudante se apropria do texto do autor, fica a cargo do leitor e do seu conhecimento
 
 
+(@)  My first example will be numbered (1).
+(@)  My second example will be numbered (2).
+
+Explanation of examples.
+
+(@)  My third example will be numbered (3).
