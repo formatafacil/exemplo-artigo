@@ -348,3 +348,37 @@ Assim, serão observados os seguintes aspectos, como propostos pelos autores (p.
 
 - Citação direta.
 - Citação indireta. Implica parafrasear e comentar uma determinada citação.
+- Menção a uma pessoa, documento ou enunciado. Exige explicar com as
+próprias palavras o que uma determinada fonte expressa, sem emitir juízo de
+valor.
+- Comentário avaliativo sobre um enunciado, texto ou outras vozes invocadas.
+- Uso de frases ou termos associados a pessoas, grupos de pessoas ou
+documentos.
+- Uso da linguagem característica de determinadas formas de comunicar,
+discutir com outros, ou de tipologias de documentos: gêneros, vocabulário,
+padrões de expressão.
+
+Para a análise reportada neste estudo, selecionei cinco artigos científicos
+produzidos por alunos do 5o período de um curso de Licenciatura em Letras, como
+trabalho final da disciplina Linguística II, na versão final apresentada após uma primeira
+correção pelo professor. Esses trabalhos foram resultado de um processo desenvolvido
+ao longo do semestre letivo em que o professor, no caso, este pesquisador, com o apoio
+de uma aluna mais experiente que atuava como monitora, procurava desenvolver nos
+alunos a consciência sobre a necessidade, os desafios e as dificuldades dos letramentos
+acadêmicos como forma de construção da identidade no interior de uma comunidade
+acadêmica. As temáticas dos artigos foram determinadas pelos próprios alunos, mas em
+geral envolveram a discussão de dados textuais à luz das teorias de gêneros ou de
+perspectivas de análise do discurso.
+
+Para este estudo, concentrei a análise apenas na introdução e no primeiro tópico
+de cada artigo, considerados como suficientes para se perceber as estratégias
+empregadas pelos estudantes no diálogo com os textos/discursos de outros. Os subsídios
+necessários para se compreender o processo de construção da identidade do aluno
+através da escrita serão, pois, buscados na maneira como a intertextualidade se
+manifesta nas referidas partes do artigo.
+
+Portanto, minha opção foi investigar esse aspecto da construção discursiva da
+identidade com base numa análise textual, o que não significa ignorar que globalmente
+o processo é bem mais complexo e de forma alguma poderia ser inteiramente elucidado
+apenas com um foco na superfície textual. Considero, entretanto, que o texto, se não é
+condição suficiente, é condição necessária para a compreensão do meu objeto de estudo.
