@@ -66,7 +66,7 @@ Letras, apresentando exemplos que potencialmente contribuem para evidenciar o
 processo e as tentativas de construção da identidade letrada desses alunos no ambiente
 acadêmico por meio da produção do referido gênero.
 
-# IDENTIDADE E LINGUAGEM/DISCURSO
+# Identidade e linguagem/discurso
 
 Especialmente no tocante à oposição entre concepções essencialistas e não
 essencialistas, a identidade tem sido um tema bastante debatido em diversos campos das
@@ -102,3 +102,24 @@ que assumamos diferentes identidades”, inclusive identidades que podem entrar 
 conflito (p. 32). Muitas dessas identidades se caracterizam como uma questão de
 afiliação e não como resultado de fatores fixos e pré-determinados tais como
 parentesco, nacionalidade e outros (BAZERMAN, 2009)
+
+Um aspecto central e particularmente relevante para este trabalho é a relação entre
+linguagem/discurso e identidade, pois as identidades “adquirem sentido por meio da
+linguagem e dos sistemas simbólicos pelos quais elas são representadas”
+(WOODWARD, 2012, p. 8). Na concepção de Hall (2012, p. 109), uma vez que as
+identidades são construídas no interior do discurso, torna-se necessário “compreendê-las
+como produzidas em locais históricos e institucionais específicos, no interior de
+formações e práticas discursivas específicas, por estratégias e iniciativas específicas”. O
+discurso e a construção da identidade são fenômenos situados e não dados de maneira
+fixa e universalizável.
+
+Assim, de acordo com Moita Lopes (2002, p. 31), considerar o discurso como
+uma forma de construção social da identidade é “analisar como os participantes
+envolvidos na construção do significado estão agindo no mundo por meio da
+linguagem”, que simultaneamente constitui e é constituída por essa ação dos sujeitos
+sociais. Isso corresponde a afirmar que a identidade é pelo menos parcialmente o
+resultado de um “ato de criação linguística” (SILVA, 2012, p. 76), o que nos leva a
+considerar, entretanto, o caráter potencialmente ambíguo do termo “criação linguística”.
+A construção de sentidos é muito mais uma questão de ação no mundo pela linguagem
+do que de criação linguística de qualquer natureza.
+
