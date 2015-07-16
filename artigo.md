@@ -486,8 +486,8 @@ Exemplo 4. Nessa ocorrência, o aluno expõe consistentemente o pensamento do au
 assumindo como sua a tarefa de descrever com as próprias palavras o conteúdo
 evocado.
 
-> *Exemplo 4: Citação indireta*
-
+> **Exemplo 4: Citação indireta**
+>
 > [AC1] No discurso político segue sempre um padrão estratégico que segundo Citelli (2004)
 são três pontos de fundamental importância: divulgação, adesão e justificativas/explicação.
 Na divulgação o candidato irá fazer uma breve apresentação [...] A adesão se encarrega em
