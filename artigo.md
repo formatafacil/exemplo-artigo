@@ -382,3 +382,37 @@ identidade com base numa análise textual, o que não significa ignorar que glob
 o processo é bem mais complexo e de forma alguma poderia ser inteiramente elucidado
 apenas com um foco na superfície textual. Considero, entretanto, que o texto, se não é
 condição suficiente, é condição necessária para a compreensão do meu objeto de estudo.
+
+## LETRAMENTO ACADÊMICO E IDENTIDADE: O QUE REVELAM OS DADOS
+
+O exame atento dos trabalhos dos alunos mostra que estes adquiriram uma
+consciência[^7] bastante explícita das peculiaridades textual-discursivas do gênero que se
+propõem a produzir, considerando-se o elevado índice de utilização de outros textos
+científicos em seus próprios textos. Os estudantes percebem que o artigo científico, na
+comunidade acadêmica, é um gênero que emerge do e para o diálogo entre
+pesquisadores. Assim, incorporam a intertextualidade como um traço constitutivo do
+artigo por meio de citações e alusões de diferentes tipos, inclusive aquelas que
+eventualmente não serão sancionadas pela comunidade por serem identificadas como
+plágio, por não explicitarem suas fontes.
+
+[^7]: Sobre a consciência crítica dos gêneros (bem como o seu ensino), ver Devitt (2004, 2009).
+
+Inicialmente, salta aos olhos a elevada incidência de citações diretas, presentes em
+todos os artigos tanto na introdução como no tópico inicial, em geral partes dedicadas a
+explicitar e a iniciar a discussão da base teórica do trabalho. Quantitativamente, as
+citações diretas representam 38% das ocorrências das categorias de intertextualidade
+analisadas, diferentemente das citações indiretas, por exemplo, que ocorrem em 6% das
+vezes em que detectamos a intertextualidade no corpus (cf. Gráfico 1). Embora não seja
+usada de uma forma única em todos os trabalhos, a citação direta aparece sempre
+associada a outra forma de intertextualidade, particularmente a comentários avaliativos
+com indicação da fonte, a qual é inferida da própria citação direta, ou a trechos que o
+leitor experiente reconhece como de terceiros mas que não trazem essa indicação. O
+primeiro caso é representado pelo Exemplo 1.
+
+> **Exemplo 1: Citação direta seguida de comentário avaliativo**
+[AC2][^8] Conforme Aquino e Souza (2008, p. 33) “os gêneros textuais são tidos como ações
+sócio-históricas e culturais, uma vez que são práticas sociais [...]” Percebe-se que os
+gêneros contribuem para o desenvolvimento de diversas ações na sociedade, por meio deles
+as comunidades comunicativas interagem e realizam seus objetivos.
+
+[^8]: Referirei os cinco artigos científicos que compõem o corpus como AC1, AC2, AC3, AC4 e AC5.
