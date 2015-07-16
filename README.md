@@ -1,6 +1,6 @@
 # Exemplo de artigo com o formatafacil
 
-- [Artigo no servidor](http://146.148.88.138/artigo/formatafacil/exemplo-artigo)
+- [Artigo na nuvem](http://146.148.88.138/artigo/formatafacil/exemplo-artigo) - ([no servidor local](http://localhost:4567/artigo/formatafacil/exemplo-artigo/))
 
 ## Arquivos
 
