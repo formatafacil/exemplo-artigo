@@ -429,8 +429,8 @@ comentário do aluno, se faz de uma forma diferente no Exemplo 2, em que um long
 trecho introdutório, não identificado como citação, precede a citação direta que acontece
 apenas dois parágrafos abaixo.
 
->**Exemplo 2: Citação direta precedida de trecho sem indicação da fonte**
->
+(2) **Exemplo 2: Citação direta precedida de trecho sem indicação da fonte**
+
 > [AC3] A linguagem é uma forma de comunicação organizada pelos gêneros textuais, que
 orienta a conduta das pessoas na maneira como elas vão se relacionar com as outras.
 Gênero é mais do que uma maneira como as pessoas se comunicam, é também um jeito de
