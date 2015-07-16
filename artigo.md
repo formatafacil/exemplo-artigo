@@ -137,3 +137,73 @@ qual deseja se identificar, dentre diversos discursos socialmente disponíveis, 
 conjunto de recursos mediacionais (gêneros de texto, por exemplo) ao qual aquele
 escritor tem acesso, bem como dos padrões de escolha socialmente condicionados que
 caracterizam esses recursos.
+
+Admitido o papel central do discurso e da linguagem na construção da identidade
+em um sentido mais geral, parece inevitável inferir que esse papel será ainda mais
+preponderante no caso da construção da identidade relativa especificamente à escrita
+acadêmica ou, noutros termos, no caso da construção discursiva da identidade do
+escritor no contexto acadêmico.
+
+# Letramentos, identidade e escrita acadêmica
+
+Aqui adoto como ponto de partida a tese defendida por Ivanič (1998), para quem a
+escrita é um “ato de identidade” pelo qual as pessoas se alinham a possibilidades
+socioculturalmente delineadas de estar no mundo, reproduzindo ou contestando valores,
+crenças e interesses característicos de práticas e discursos dominantes. É
+particularmente o caso dos estudantes de cursos de graduação, que ao ingressarem no
+novo mundo da universidade, “provavelmente descobrirão que seus discursos e práticas
+[da universidade] dão suporte a identidades diferentes daquelas que eles trazem
+consigo” (IVANIČ, 1998, p. 33).
+
+Do ponto de vista dos Novos Estudos de Letramento, essa concepção da escrita
+acadêmica se coloca em linha com a noção de um modelo ideológico de letramento, por
+oposição a um modelo autônomo (STREET, 1984), e assim caracteriza a escrita como
+uma prática social sujeita a uma série de restrições e condicionamentos sócio-históricos
+e culturais, não se configurando, por exemplo, como uma habilidade adquirida de uma
+vez por todas (na educação básica, provavelmente) e transferível para o novo contexto
+de uso, a universidade.
+
+A propósito disso, Lea e Street (1998, 2006) propõem que a escrita acadêmica
+seja tratada a partir da perspectiva dos *letramentos acadêmicos*, por contraposição às
+perspectivas das habilidades de estudo e da socialização acadêmica. A perspectiva dos
+letramentos acadêmicos procura dedicar uma atenção especial “às relações de poder,
+autoridade, produção de sentidos e *identidade* que estão implícitas no uso de práticas de
+letramento em contextos institucionais específicos” (LEA; STREET, 2006, p. 229), e
+não apenas às habilidades linguísticas ou à socialização do estudante em disciplinas
+específicas[^4].
+
+[^4]: Tratei mais detalhadamente das três abordagens à leitura e escrita no ensino superior em trabalhos
+anteriores como, por exemplo, Bezerra (2012).
+
+É nessa perspectiva que Ivanič (1998) discute a relação entre escrita acadêmica,
+letramentos e identidade. Para a autora, o letramento pode ser entendido com ênfase nas
+habilidades ou nos modos de uso da escrita. Para dar conta desse último sentido, Ivanič
+adota a noção de “ecologia do letramento”, em conformidade com a metáfora proposta
+por Barton (1994). Assim, o foco do letramento se concentra na atividade social, de
+modo que “os atos reconhecíveis de leitura e escrita se tornaram o que são em virtude
+das necessidades e dos propósitos sociais que procuraram atender em sua evolução”
+(IVANIČ, 1998, p. 62). Essa visão ecológica do letramento coloca em destaque os
+múltiplos eventos de letramento em que se envolve, por exemplo, o estudante na tarefa
+de produzir um artigo científico. Uma vez que os eventos de letramento se definem
+como eventos em que textos desempenham um papel central, Ivanič ressalta que a visão
+ecológica do letramento apresenta um valor significativo para uma teoria da identidade
+do escritor por colocar em pauta “a maneira como a identidade das pessoas é implicada
+e construída tanto por suas atividades letradas como por suas escolhas linguísticas”
+(1998, p. 64).
+
+Ivanič utiliza ainda outro conceito central nos Novos Estudos de Letramento, o de
+práticas de letramento, para fazer a relação entre cultura e identidade. É através das
+práticas de letramento, entendidas como um aspecto das práticas sociais, que os
+indivíduos se alinham a valores, crenças e interesses particulares (p. 66). Conforme a
+autora, a noção de práticas de letramento é “particularmente relevante” para o estudo da
+identidade na escrita acadêmica, uma vez que devem ser vistas como “as respostas de
+uma pessoa ou grupo a uma determinada demanda da vida que de alguma forma
+envolve a linguagem” (p. 67). Os estudantes universitários são pessoas que enfrentam o
+desafio de construir um novo aspecto de sua identidade assumindo-se como membros
+da comunidade acadêmica. Para isso, precisam lidar com valores que eventualmente
+entrarão em conflito com outros aspectos de sua identidade. Assim como a identidade,
+também o letramento será uma construção contínua e não algo dado de uma vez por
+todas.
+
+O envolvimento contínuo e crescente do aluno com a leitura e a produção dos
+gêneros mais valorizados na universidade, ou seja, a sua inserção nas práticas e eventos
