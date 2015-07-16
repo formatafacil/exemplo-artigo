@@ -217,8 +217,7 @@ será um fator crucial para a compreensão da escrita acadêmica, uma vez que ta
 esta, como qualquer outra forma de escrita, realiza-se em profunda imbricação com o
 contexto social (IVANIČ, 1998).
 
-# 4 INTERTEXTUALIDADE E PLÁGIO NA ESCRITA ACADÊMICA
-
+# Intertextualidade e plágio na escrita acadêmica
 
 Ainda seguindo a perspectiva de Ivanič (1998), destaco a relação entre
 intertextualidade e plágio como uma questão crucial na escrita acadêmica em geral e
@@ -267,7 +266,7 @@ perspectiva, a fronteira entre intertextualidade e plágio se mostrará tênue, 
 academia não só admita, mas valorize e até exija a primeira e rejeite decididamente o
 segundo.
 
-# 5 LETRAMENTOS, ESTUDOS DE GÊNEROS E O ARTIGO CIENTÍFICO
+# Letramentos, estudos de gêneros e o artigo científico
 
 Diálogos entre os estudos de letramentos acadêmicos e as teorias de gêneros não
 apenas são possíveis como têm acontecido em alguma medida, como mostram, por
@@ -316,14 +315,14 @@ construir uma identidade no ambiente acadêmico.
 [^6]: De fato, para Bartholomae (1985), os estudantes terão que assumir a prática de letramento representada
 pelo artigo “mesmo antes de saberem o que estão fazendo”.
 
-# 6 A CONSTRUÇÃO DA IDENTIDADE DO ALUNO COMO ESCRITOR: O ARTIGO CIENTÍFICO
+# A construção da identidade do aluno como escritor: o artigo científico
 
 Neste tópico, inicialmente apresento de forma sumária os procedimentos
 metodológicos que foram adotados, indicando sua origem e escopo, ao lado da
 definição do corpus a ser analisado. Em seguida, apresento a análise e a correspondente
 discussão dos resultados alcançados.
 
-## 6.1 PROCEDIMENTOS METODOLÓGICOS
+## Procedimentos metodológicos
 
 Utilizando contribuições de diferentes procedências teóricas, Castelló et al. (2011)
 propõem uma metodologia para analisar a “voz do autor” na escrita acadêmica que
@@ -383,7 +382,7 @@ o processo é bem mais complexo e de forma alguma poderia ser inteiramente eluci
 apenas com um foco na superfície textual. Considero, entretanto, que o texto, se não é
 condição suficiente, é condição necessária para a compreensão do meu objeto de estudo.
 
-## LETRAMENTO ACADÊMICO E IDENTIDADE: O QUE REVELAM OS DADOS
+## Letramento acadêmico e identidade: o que revelam os dados
 
 O exame atento dos trabalhos dos alunos mostra que estes adquiriram uma
 consciência[^7] bastante explícita das peculiaridades textual-discursivas do gênero que se
@@ -564,7 +563,7 @@ como o estudante, ao lidar com a produção do artigo científico, se situa no p
 letramento acadêmico e, dessa forma, de que maneira constrói academicamente a sua
 identidade no ambiente da universidade.
 
-# Considerações finai
+# Considerações finais
 
 Ao longo deste trabalho, procurei refletir sobre a maneira como a identidade, vista
 como fenômeno plural e dinâmico, numa perspectiva não essencialista, encontra no
