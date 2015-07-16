@@ -14,5 +14,5 @@ ______. Atos de fala, gêneros textuais e sistemas de atividades: como os textos
 pessoas. In: BAZERMAN, C.. *Gêneros textuais, tipificação e interação*. São Paulo: Cortez, 2005. p. 19-
 46.
 
-`______`. The diversity we become: education and agency in writing unique selves within evolving
+______. The diversity we become: education and agency in writing unique selves within evolving
 communities. *Revista Triângulo*, Uberaba/MG, v. 2, n. 1, p. 13-29, jan/jun. 2009.
