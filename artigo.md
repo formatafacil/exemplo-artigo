@@ -416,3 +416,36 @@ gêneros contribuem para o desenvolvimento de diversas ações na sociedade, por
 as comunidades comunicativas interagem e realizam seus objetivos.
 
 [^8]: Referirei os cinco artigos científicos que compõem o corpus como AC1, AC2, AC3, AC4 e AC5.
+
+
+Com essa estratégia, o estudante utiliza as palavras textualmente citadas de
+terceiros como apoio para o seu próprio comentário, que por outro lado não é
+independente, visto que continua seguindo muito de perto o conteúdo do texto
+consultado. A despeito disso, me parece que aqui o estudante-escritor investe mais
+claramente na construção do seu próprio discurso uma vez que se sente respaldado pela
+autoridade citada. Essa relação entre o discurso do outro, citado diretamente, e o
+comentário do aluno, se faz de uma forma diferente no Exemplo 2, em que um longo
+trecho introdutório, não identificado como citação, precede a citação direta que acontece
+apenas dois parágrafos abaixo.
+
+**Exemplo 2: Citação direta precedida de trecho sem indicação da fonte**
+> [AC3] A linguagem é uma forma de comunicação organizada pelos gêneros textuais, que
+orienta a conduta das pessoas na maneira como elas vão se relacionar com as outras.
+Gênero é mais do que uma maneira como as pessoas se comunicam, é também um jeito de
+olhar e compreender a realidade. Eles existem em grande quantidade. Como práticas
+sociocomunicativas, são dinâmicos e sofrem variação na sua construção. Alguns deles são:
+cartas, piadas jornal, entre outros.
+>
+> [Parágrafo omitido]
+>
+> Todo gênero tem seu suporte, eles variam, pode ser um livro, um jornal, um outdoor que é
+o que especificaremos, mas adiante. Ele é de grande importância para que o gênero circule
+na sociedade. Conforme Marcuschi, “pode-se dizer que o suporte de um gênero é uma
+superfície física em formato específico que suporta, fixa e mostra um texto”(2003, p.23).
+
+Portanto, embora se possa reconhecer nos trechos anteriores o discurso do autor
+que finalmente vem a ser citado, esse conteúdo não é associado a ele pelo aluno-
+escritor. A recuperação dessa pertença e, consequentemente, da forma inadequada como
+o estudante se apropria do texto do autor, fica a cargo do leitor e do seu conhecimento
+
+Referirei os cinco artigos científicos que compõem o corpus como AC1, AC2, AC3, AC4 e AC5.
