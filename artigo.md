@@ -123,3 +123,17 @@ considerar, entretanto, o caráter potencialmente ambíguo do termo “criação
 A construção de sentidos é muito mais uma questão de ação no mundo pela linguagem
 do que de criação linguística de qualquer natureza.
 
+Neste sentido, para Ivanič, expressões como *seleção*, *opções* e *escolhas
+linguísticas* podem ser “perigosamente enganosas” (1998, p. 54), se implicarem que um
+determinado escritor é capaz de escolher livremente entre alternativas, ou que as
+escolhas são uma questão de arbítrio individual ou de opção consciente. Para a autora,
+um importante componente da construção discursiva da identidade são precisamente os
+atos inconscientes de seleção dentre alternativas por parte da pessoa que escreve.
+Todavia, a própria noção de seleção já é socialmente construída, pois está sujeita a
+restrições de fatores sociais e à influência de convenções sócio-historicamente situadas.
+Assim, conforme Ivanič, a construção discursiva da identidade do escritor em termos de
+um estilo “próprio” ou, antes, de um estilo “apropriado” por ele como aquele com o
+qual deseja se identificar, dentre diversos discursos socialmente disponíveis, resulta do
+conjunto de recursos mediacionais (gêneros de texto, por exemplo) ao qual aquele
+escritor tem acesso, bem como dos padrões de escolha socialmente condicionados que
+caracterizam esses recursos.
