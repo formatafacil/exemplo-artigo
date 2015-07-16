@@ -207,3 +207,144 @@ todas.
 
 O envolvimento contínuo e crescente do aluno com a leitura e a produção dos
 gêneros mais valorizados na universidade, ou seja, a sua inserção nas práticas e eventos
+de letramento que cercam o discurso acadêmico, será um fator decisivo para a
+construção da sua identidade como participante legítimo e legitimado do ambiente
+acadêmico. A participação do aluno, do ponto de vista da relação entre identidade e
+diferença a que se referem Woodward, Silva e Hall (2012), será sensivelmente marcada
+por oposição à participação do professor ou pesquisador, este visto como aquele que
+“sabe” e o aluno, como aquele que “está aprendendo”. Em ambos os casos, a identidade
+será um fator crucial para a compreensão da escrita acadêmica, uma vez que também
+esta, como qualquer outra forma de escrita, realiza-se em profunda imbricação com o
+contexto social (IVANIČ, 1998).
+
+# 4 INTERTEXTUALIDADE E PLÁGIO NA ESCRITA ACADÊMICA
+
+
+Ainda seguindo a perspectiva de Ivanič (1998), destaco a relação entre
+intertextualidade e plágio como uma questão crucial na escrita acadêmica em geral e
+particularmente na escrita de estudantes no ensino superior. Trata-se de uma questão
+que, ademais, apresenta fortes implicações para uma discussão sobre a identidade do
+estudante como escritor no ambiente acadêmico ou, como quer a autora, fazendo uma
+leitura crítica do conceito popularizado por Swales (1990), em uma comunidade
+discursiva acadêmica.
+
+Levando-se em conta o que diz Porter (apud Ivanič, 1998) sobre a
+intertextualidade, é possível compreendê-la como um aspecto central do processo pelo
+qual o estudante procura se apropriar dos discursos da comunidade acadêmica. Dessa
+forma, os estudantes estão “reproduzindo outros textos no seu próprio texto na tentativa
+de escrever algo aceitável para a comunidade” (IVANIČ, 1998, p. 84). Trata-se em
+última instância de uma caminhada empreendida pelo estudante em busca de uma “voz
+pessoal” na escrita acadêmica. A questão crucial para os estudantes diz respeito à
+manutenção das fronteiras entre o que a academia considera como intertextualidade, isto
+é, o uso adequado dos textos de terceiros, documentado através da citação e
+correspondente referenciação bibliográfica, e o plágio, visto como a apropriação dos
+textos alheios sem conceder aos autores os devidos créditos conforme determina a ética
+do discurso acadêmico.
+
+Outra forma de tratar a questão tem a ver com a relação entre imitação e
+modelagem da identidade. Para autores como Brooke (apud Ivanič, 1998), discutindo o
+letramento literário e não o acadêmico, o estudante ou o escritor em geral aprende a
+escrever não pela imitação de textos ou processos, mas pela imitação de outro escritor.
+De acordo com o autor, mais do que imitar formas, estilos e processos, o estudante
+imitaria as pessoas, personalidades e identidades que os produzem. A imitação se traduz
+em modelagem na medida em que o estudante adapta a identidade do outro escritor de
+uma maneira particularmente sua. O ensino da escrita poderia, então, ser considerado
+bem sucedido quando
+
+> efetivamente modela uma identidade que os estudantes possam aceitar [...] quando parte de
+sua identidade se torna uma identidade de escritor, quando percebem que ser escritor de
+uma determinada maneira é um modo válido e interessante de agir no mundo” (BROOKE
+apud IVANIČ, 1998, p. 85).
+
+A construção discursiva da identidade do estudante via escrita acadêmica,
+portanto, implica não só aprender a usar a escrita criativamente, mas também a utilizar
+os discursos de outros de maneira própria e também criativa. Na ótica de Ivanič (1998),
+a noção de intertextualidade contribui para uma teoria da identidade do escritor por
+destacar que essa identidade, por um lado, não é nova nem individual, e sim constituída
+pelos discursos que adota; por outro lado, é parcialmente determinada pelo modo
+particular como o escritor combina ou lança mão dos discursos de outros. Nessa
+perspectiva, a fronteira entre intertextualidade e plágio se mostrará tênue, embora a
+academia não só admita, mas valorize e até exija a primeira e rejeite decididamente o
+segundo.
+
+# 5 LETRAMENTOS, ESTUDOS DE GÊNEROS E O ARTIGO CIENTÍFICO
+
+Diálogos entre os estudos de letramentos acadêmicos e as teorias de gêneros não
+apenas são possíveis como têm acontecido em alguma medida, como mostram, por
+exemplo, o uso que Ivanič (1998) faz do conceito de comunidade discursiva proposto
+por Swales (1990) e trabalhos conjuntos como Russell et al. (2009), para quem “o
+conceito de gêneros está implícito em cada um dos modelos propostos para abordar a
+escrita dos estudantes no ensino superior” (p. 252). Particularmente, considero o
+conceito de gêneros mais produtivo para entender conceitos como práticas e eventos de
+letramento do que a noção geral e um tanto abstrata de “textos” que é comumente
+utilizada nos Novos Estudos de Letramento[^5].
+
+[^5]:Acredito ser possível demonstrar que em muitas ocasiões, nos trabalhos dos autores filiados a essa
+abordagem, o termo texto pode ser substituído por gênero com proveito e sem qualquer prejuízo para a
+teoria.
+
+A concepção de gêneros aqui adotada consiste em uma combinação de aportes da
+abordagem do Inglês para Fins Específicos, conhecida no Brasil (um tanto
+inadequadamente) como “Sociorretórica”, com aportes da abordagem dos Estudos
+Retóricos de Gêneros, mais conhecida como “Nova Retórica” ou “Escola Americana”.
+Na primeira perspectiva, concordo com Swales (1990) em conceber os gêneros como
+“classes de eventos comunicativos” caracterizados por propósitos comunicativos em
+comum, entre outros aspectos. De acordo com o autor, são esses propósitos
+comunicativos que efetivamente dão origem a textos concretos socialmente
+reconhecidos como ligados por traços prototípicos capazes de caracterizá-los como
+pertencentes ao gênero em questão.
+
+O conceito swalesiano já aponta para um diálogo com os Estudos Retóricos de
+Gêneros conforme representados por Bazerman (2005, p. 31), para quem o gênero se
+identifica antes de tudo como um “fenômeno de reconhecimento psicossocial”, e não
+como um conjunto de características estruturais ou traços formais. Embora reconheça a
+importância da forma, inclusive como a primeira e mais imediata pista para o
+reconhecimento do gênero, aqui o encaro como forma de ação social tipificada e
+recorrente na linha de Miller (2012) e como “formas de vida” e “enquadres para a ação
+social” no sentido de Bazerman (1997).
+
+Sob essa concepção, o artigo científico tal como produzido pelos estudantes de
+alguma forma se alinha com a categoria prototípica do gênero nos moldes como é
+concebido na academia, mais particularmente na área de Letras/Linguística, no caso
+deste estudo. Além disso, os textos efetivamente produzidos como pertencentes ao
+gênero resultam da ação social dos estudantes no processo da construção discursiva de
+sua identidade como escritores na comunidade discursiva acadêmica. A noção, ainda
+que precariamente adquirida[^6] , sobre o que seja o gênero artigo científico o configura
+como um poderoso enquadre para a ação social dos estudantes em sua tentativa de
+construir uma identidade no ambiente acadêmico.
+
+[^6]: De fato, para Bartholomae (1985), os estudantes terão que assumir a prática de letramento representada
+pelo artigo “mesmo antes de saberem o que estão fazendo”.
+
+# 6 A CONSTRUÇÃO DA IDENTIDADE DO ALUNO COMO ESCRITOR: O ARTIGO CIENTÍFICO
+
+Neste tópico, inicialmente apresento de forma sumária os procedimentos
+metodológicos que foram adotados, indicando sua origem e escopo, ao lado da
+definição do corpus a ser analisado. Em seguida, apresento a análise e a correspondente
+discussão dos resultados alcançados.
+
+## 6.1 PROCEDIMENTOS METODOLÓGICOS
+
+Utilizando contribuições de diferentes procedências teóricas, Castelló et al. (2011)
+propõem uma metodologia para analisar a “voz do autor” na escrita acadêmica que
+envolve três aspectos: o posicionamento, a intertextualidade e a organização da
+informação. A intenção dos autores é que os procedimentos metodológicos propostos
+funcionem como um “sistema de análise de textos escritos que seja útil tanto para o
+estudo de textos em construção (sucessivos rascunhos) como para o estudo de textos
+finais” (p. 111).
+
+Para os fins deste estudo, conquanto reconheça a relevância das três categorias
+propostas, aplicarei, seguindo a definição dada pelos autores, apenas o critério da
+intertextualidade, considerando que se trata de um recurso não só inevitável, uma vez
+que todo texto se relaciona com outros textos, como requerido como condição sine qua
+para a constituição do artigo científico, visto que este encontra seu lugar na academia
+enquanto se constitui no diálogo com outros trabalhos científicos.
+
+Na tentativa de tratar a intertextualidade de forma abrangente, a proposta de
+Castelló et al. (2011) abrange um contínuo que busca dar conta da referência a outros
+textos em dois polos que seguem da referência mais explícita à menos explícita,
+considerando que a intertextualidade não se limita a textos efetivamente lidos e citados.
+Assim, serão observados os seguintes aspectos, como propostos pelos autores (p. 113):
+
+- Citação direta.
+- Citação indireta. Implica parafrasear e comentar uma determinada citação.
