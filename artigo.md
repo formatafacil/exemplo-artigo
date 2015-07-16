@@ -429,8 +429,8 @@ comentário do aluno, se faz de uma forma diferente no Exemplo 2, em que um long
 trecho introdutório, não identificado como citação, precede a citação direta que acontece
 apenas dois parágrafos abaixo.
 
-(2) **Exemplo 2: Citação direta precedida de trecho sem indicação da fonte**
-
+> **Exemplo 2: Citação direta precedida de trecho sem indicação da fonte**
+>
 > [AC3] A linguagem é uma forma de comunicação organizada pelos gêneros textuais, que
 orienta a conduta das pessoas na maneira como elas vão se relacionar com as outras.
 Gênero é mais do que uma maneira como as pessoas se comunicam, é também um jeito de
@@ -449,11 +449,53 @@ Portanto, embora se possa reconhecer nos trechos anteriores o discurso do autor
 que finalmente vem a ser citado, esse conteúdo não é associado a ele pelo aluno-
 escritor. A recuperação dessa pertença e, consequentemente, da forma inadequada como
 o estudante se apropria do texto do autor, fica a cargo do leitor e do seu conhecimento
+de textos anteriores ao do aluno. O corpus apresenta diversas ocorrências dessas
+combinações, em que o trecho não citado ou o comentário avaliativo tanto podem
+preceder como suceder a citação direta.
 
+De particular relevância para esta análise, rivalizando em ocorrências com a
+citação direta, destaquem-se os numerosos recortes de textos ilustrados pelo Exemplo 2,
+que evocam e até reproduzem o discurso alheio sem citá-lo conforme as normas
+estabelecidas pela academia. Esses recortes, identificados no Gráfico 1 como “trechos
+sem indicação da fonte”, totalizam 32% das ocorrências no corpus. Essa categoria
+ilustra vividamente a dificuldade que o aluno ainda enfrenta no processo de constituição
+de sua identidade como escritor no ambiente acadêmico.
 
-(@)  My first example will be numbered (1).
-(@)  My second example will be numbered (2).
+Casos de citação indireta foram identificados em apenas dois dos cinco artigos
+analisados. Nesses casos, o estudante apenas se refere ao nome do autor e à data da
+publicação e em seguida parafraseia a parte do conteúdo que lhe interessa trazer para o
+artigo, como se pode verificar a seguir.
 
-Explanation of examples.
+> *Exemplo 3: Citação indireta*
+> 
+> [AC4] A partir de um breve estudo sobre análise do discurso, através do estudo
+desenvolvido por Brandão (2002), aonde vimos que o processo de interação verbal passa a
+construir uma realidade fundamental da língua, conseguimos perceber elementos usados na
+construção de textos publicitários para envolver e persuadir o consumidor, seja de uma
+forma original ou repetindo esquemas estereotipados com menos grau de originalidade
+Citelli (1998).
 
-(@)  My third example will be numbered (3).
+Um problema na construção do texto é que, apesar de evocar dois autores no curto
+espaço de cinco linhas, o aluno não deixa claro quais partes da citação se referem a cada
+um deles. Mais uma vez, a recuperação dessa informação fica por conta dos
+conhecimentos anteriores do leitor acerca do tema e dos próprios autores. Falta ao aluno
+a habilidade para marcar com clareza o pensamento de cada autor e discuti-lo de forma
+pertinente para o seu trabalho. Em outras ocorrências, no entanto, a paráfrase
+resumidora do pensamento do autor é bem caracterizada pelo aluno, como se vê no
+Exemplo 4. Nessa ocorrência, o aluno expõe consistentemente o pensamento do autor,
+assumindo como sua a tarefa de descrever com as próprias palavras o conteúdo
+evocado.
+
+> *Exemplo 4: Citação indireta*
+
+> [AC1] No discurso político segue sempre um padrão estratégico que segundo Citelli (2004)
+são três pontos de fundamental importância: divulgação, adesão e justificativas/explicação.
+Na divulgação o candidato irá fazer uma breve apresentação [...] A adesão se encarrega em
+garantir que o que foi anunciado tenha uma repercussão positiva [...] A justificativa/
+explicação será o que irá garantir a adesão no discurso [...]
+
+Um dos aspectos da intertextualidade apontados por Castelló et al. (2011) que me
+pareceram mais difíceis de identificar, ou melhor, de verificar sua existência, foi a
+“menção a uma pessoa, documento ou enunciado” com a exigência de “explicar com as
+próprias palavras o que uma determinada fonte expressa, sem emitir juízo de valor”.
+Admitindo-se a coerência dessa proposta, teríamos algo como uma paráfrase “neutra”, o
