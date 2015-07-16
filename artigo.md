@@ -466,7 +466,7 @@ analisados. Nesses casos, o estudante apenas se refere ao nome do autor e à dat
 publicação e em seguida parafraseia a parte do conteúdo que lhe interessa trazer para o
 artigo, como se pode verificar a seguir.
 
-> *Exemplo 3: Citação indireta*
+> **Exemplo 3: Citação indireta**
 > 
 > [AC4] A partir de um breve estudo sobre análise do discurso, através do estudo
 desenvolvido por Brandão (2002), aonde vimos que o processo de interação verbal passa a
