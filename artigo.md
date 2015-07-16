@@ -499,3 +499,51 @@ pareceram mais difíceis de identificar, ou melhor, de verificar sua existência
 “menção a uma pessoa, documento ou enunciado” com a exigência de “explicar com as
 próprias palavras o que uma determinada fonte expressa, sem emitir juízo de valor”.
 Admitindo-se a coerência dessa proposta, teríamos algo como uma paráfrase “neutra”, o
+que dificilmente se pode verificar na linguagem em uso. O Gráfico 1 registra 5% dessas
+ocorrências, o que foi possível apenas incluindo na categoria listas enumerativas de
+autores evocados pelo estudante como base teórica, como no Exemplo 5, mas nesses
+casos falta “explicar com as próprias palavras”. Uma ocorrência mais próxima do que
+propõem os autores me pareceu ser representada pelo Exemplo 6, mas ainda assim não é
+possível afirmar que o comentário do aluno não emite “juízo de valor”. O próprio ato de
+citar, a escolha de quem, de qual trabalho e de que parte citar já indica um
+posicionamento e portanto um juízo de valor.
+
+> **Exemplo 5: Menção “neutra” como lista enumerativa da base teórica**
+> 
+> [AC4] Para produzir o presente artigo, foram utilizados como referencial teórico Citelli
+(1998), Chalhub (1987), Brandão (2002), Ilari; Geraldi (2004) e Martelotta (2011).
+
+> **Exemplo 6: Menção “neutra” usando “as próprias palavras”**
+>
+> [AC5] Uma das características dos gêneros digitais é a de integrar imagem ao texto, ou seja,
+a imagem complementa o sentido do texto, de modo que ambos mantêm relações muito
+próximas (DIONÍSIO, 2005).
+
+Finalmente, vejamos o caso da última categoria proposta por Castelló et al.
+(2011), que se refere ao uso pelo aluno-escritor de “linguagem característica de
+determinadas formas de comunicar, discutir com outros, ou de tipologias de
+documentos: gêneros, vocabulário, padrões de expressão”. As ocorrências foram
+praticamente nulas no corpus e a identificação da estratégia, um tanto precária e sujeita
+a revisão. Apenas um exemplo me pareceu inequívoco.
+
+Exemplo 7: Uso de linguagem característica/padrão típico do gênero artigo científico
+[AC5] Apesar de existir muitas pesquisas sobre gêneros ainda são poucas as análises que
+contemplam os propósitos comunicativos presentes neles, especialmente quando se refere a
+gêneros compartilhados em sites que promovem a interação entre as pessoas, como é o caso
+do Facebook.
+
+Nesse trecho, o aluno-escritor executa um movimento retórico típico para a
+introdução do gênero artigo científico, conforme o modelo CARS proposto por Swales
+(1990)[^9]. O estudante cria um espaço retórico para sua pesquisa, pela estratégia de
+indicar uma lacuna no conhecimento construído na área disciplinar. Trata-se de um
+movimento bastante sofisticado e que não teve similares no restante do corpus. Nesse
+caso, talvez seja significativo ressaltar que o aluno em questão, no momento da
+produção desse artigo para uma disciplina, também realizava pesquisa como bolsista de
+Iniciação Científica, o que lhe conferia maior intimidade com o gênero artigo científico
+em relação aos seus colegas.
+
+[^9]: O modelo CARS, composto por três movimentos retóricos (moves) foi utilizado por Swales (1990) para
+analisar introduções de artigos de pesquisa do ponto de vista da organização das informações. Segundo o
+teórico, no segundo movimento, uma estratégia comumente empregada pelos autores do artigo é indicar
+uma lacuna na área disciplinar. Para análises de gêneros acadêmicos baseadas no modelo CARS, ver, por
+exemplo, Bezerra (2001, 2006).
